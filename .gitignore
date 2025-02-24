@@ -4,3 +4,4 @@ node_modules/
 .npmrc.env
 package-lock.json
 .DS_Store
+uploads/
